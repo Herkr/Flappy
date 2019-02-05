@@ -1,0 +1,14 @@
+{
+  "main.css": "/flappy/static/css/main.b02a550d.chunk.css",
+  "main.js": "/flappy/static/js/main.bd4bce97.chunk.js",
+  "main.js.map": "/flappy/static/js/main.bd4bce97.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/flappy/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/flappy/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/flappy/static/js/runtime~main.bf1ac435.js",
+  "runtime~main.js.map": "/flappy/static/js/runtime~main.bf1ac435.js.map",
+  "static/media/logo.svg": "/flappy/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b02a550d.chunk.css.map": "/flappy/static/css/main.b02a550d.chunk.css.map",
+  "index.html": "/flappy/index.html",
+  "precache-manifest.e0c79a9a9a9e2a2a40c474253a0a3025.js": "/flappy/precache-manifest.e0c79a9a9a9e2a2a40c474253a0a3025.js",
+  "service-worker.js": "/flappy/service-worker.js"
+}
